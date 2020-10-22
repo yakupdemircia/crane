@@ -1,0 +1,9 @@
+main
+	__CC2DW
+	Ayarlar
+		UART1_Init
+	cikisTemizle
+interrupt
+	cikisKontrol
+		cikisTemizle
+		cikisIsle
