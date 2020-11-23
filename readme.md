@@ -9,7 +9,10 @@ Hardware designs for both TX(Transmitter) and RX(Receiver) are included.
 Software is built with MikroC
 
 ----
-Some images and notes to be added
+<img width="1351" alt="3dviewbottom" src="https://user-images.githubusercontent.com/31820045/100000300-7557c300-2dd2-11eb-9311-3e03316524f6.png">
+<img width="1351" alt="3dviewtop" src="https://user-images.githubusercontent.com/31820045/100000319-7c7ed100-2dd2-11eb-9426-3b275c0592c0.png">
+<img width="567" alt="layout" src="https://user-images.githubusercontent.com/31820045/100000338-843e7580-2dd2-11eb-968a-5fb28a8e5589.png">
+
 ----
 
 ## USE AT YOUR OWN RISK
